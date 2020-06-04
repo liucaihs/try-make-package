@@ -1,0 +1,22 @@
+{
+    "name": "liucaihs/try-make-package",
+    "description": "try make a package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liucaihs",
+            "email": "1207204940@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Flower\\Rose\\": "src/Flower/Rose",
+            "Flower\\Lily\\": "src/Flower/Lily"
+        }
+    }
+}
