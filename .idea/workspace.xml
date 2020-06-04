@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="143fb9a4-a049-4be6-8078-c017cc5f3e69" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Flower/Lily/Lily.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flower/Lily/Lily.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591238877060</updated>
-      <workItem from="1591238878934" duration="884000" />
+      <workItem from="1591238878934" duration="1968000" />
     </task>
     <servers />
   </component>
